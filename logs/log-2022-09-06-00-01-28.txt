@@ -1,0 +1,12 @@
+<pre>
+
+Total start at 2022-09-06 00:01:28
+
+Skip cache/bohotendencias.com.json
+Skip cache/crosstraining.top.json
+
+Total requests = 0
+Total finish at 2022-09-06 00:01:28
+Total execution time of script = 0 sec (0,00 min)
+
+</pre>

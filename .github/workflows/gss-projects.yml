@@ -1,0 +1,49 @@
+name: Deploy GSS Projects on Netlify 🚀
+
+on:
+  schedule:
+    - cron:  '30 0 * * *'
+  workflow_dispatch:
+
+permissions: write-all
+
+jobs:
+  deploy:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Deploy crosstraining.top 🚀
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/6223c798a22dd19c7b80dcce
+      - name: Deploy conaceitedecoco.com 🚀
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/62211a3be515303e57ceb4d9
+      - name: Deploy bohotendencias.com 🚀
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/6220fbebc17c2b183d48c38b
+      - name: Deploy cuero.pro 🚀
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/6222760569915a00c587575d
+      - name: Deploy deleopardo.net 🚀
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/622288b365643d20d63de44c
+      - name: Deploy estilostransparentes.com 🚀
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/622284dbaebe9314bb60e963
+      - name: Deploy topinalambricos.com 🚀
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/62236fb1958f101b215f0f9f
+      - name: Deploy cosasdeviaje.com 🚀
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/6223770e636c520893bbefd5
+      - name: Deploy lucesled.promo 🚀
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/62238177d049c21e11106a35
+      - name: Deploy debolsillo.casa 🚀
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/6223837b2b0fcc054ea48443
+      - name: Deploy encaje.me 🚀
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/6223890d746bad402ffc5051
+      - name: Deploy ganchillocrochet.com 🚀
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/62238cded9b8df2030f07470
+      - name: Deploy faldasdetul.net 🚀
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/622291c465643d268c3de5f1
+      - name: Deploy marihuana10.com 🚀
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/62228d6b65643d1e3f3de6e2
+      - name: Deploy decamping.netlify.app 🚀
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/6221fe03ad4b73c8730e37b9
+      - name: Deploy corazones.netlify.app 🚀
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/6221eb7518dea7bbc38b3b57
+      - name: Deploy relojesexclusivos.netlify.app 🚀
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/6221f453539c25c368a5796e
+      - name: Deploy sacosdedormir.netlify.app 🚀
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/62220f5df93034c5a5feb93f

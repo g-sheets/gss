@@ -1,0 +1,46 @@
+name: Deploy 🚀
+
+on:
+  schedule:
+    - cron:  '30 12 * * *'
+  workflow_dispatch:
+
+permissions: write-all
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v3
+      - name: Setup PHP 🔧
+        id: setup-php
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '7.4'
+          ini-values: post_max_size=512M, max_execution_time=3900
+      - name: Run PHP code ⚙️
+        shell: php {0}
+        run: |
+          <?php
+            $general_id_amazon = 'topinalambricos-21';
+            $general_amazon_access_key_id = '${{ secrets.AMAZON_ACCESS_KEY_ID }}';
+            $general_amazon_secret_key = '${{ secrets.AMAZON_SECRET_KEY }}';
+
+            $devlopement = false;
+            if ($devlopement) {
+              $projects = array(
+                // 'prueba.seacomoseo.com' => 'ERROR A PROPÓSITO',
+                'bohotendencias.com' => 'example.tsv',
+                'crosstraining.top' => 'example-2.tsv'
+              );
+            } else {
+              print eval(file_get_contents('${{ secrets.GSS_PROJECTS_ARRAY }}'));
+            }
+
+            include 'functions.php';
+            include 'run.php';
+            upFiles('Write log files');

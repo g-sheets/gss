@@ -1,0 +1,12 @@
+<pre>
+
+Total start at 2022-09-06 00:05:57
+
+Write cache/bohotendencias.com.json in 97 sec (1,62 min) [58 requests]
+Write cache/crosstraining.top.json in 148 sec (2,47 min) [90 requests]
+
+Total requests = 148
+Total finish at 2022-09-06 00:10:04
+Total execution time of script = 246 sec (4,10 min)
+
+</pre>
