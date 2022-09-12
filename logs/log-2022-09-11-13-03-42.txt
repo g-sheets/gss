@@ -1,0 +1,28 @@
+<pre>
+
+Total start at 2022-09-11 13:03:41
+
+Skip cache/crosstraining.top.json
+Skip cache/conaceitedecoco.com.json
+Skip cache/bohotendencias.com.json
+Skip cache/cuero.pro.json
+Skip cache/deleopardo.net.json
+Skip cache/estilostransparentes.com.json
+Skip cache/topinalambricos.com.json
+Skip cache/cosasdeviaje.com.json
+Skip cache/lucesled.promo.json
+Skip cache/debolsillo.casa.json
+Skip cache/encaje.me.json
+Skip cache/ganchillocrochet.com.json
+Skip cache/faldasdetul.net.json
+Skip cache/marihuana10.com.json
+Skip cache/decamping.netlify.app.json
+Skip cache/corazones.netlify.app.json
+Skip cache/relojesexclusivos.netlify.app.json
+Skip cache/sacosdedormir.netlify.app.json
+
+Total requests = 0
+Total finish at 2022-09-11 13:03:42
+Total execution time of script = 0 sec (0,00 min)
+
+</pre>
