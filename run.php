@@ -19,7 +19,8 @@ foreach($projects as $domain => $project) {
   $project_requests = 0;
 
   // If not same day of the year
-  if (date('z') != date('z', filemtime($resultProjectFile))) {
+  // if (date('z') != date('z', filemtime($resultProjectFile))) {
+  if (true) {
 
     $start_time = microtime(true);
 
