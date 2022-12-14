@@ -1,0 +1,28 @@
+<pre>
+
+Total start at 2022-12-14 12:54:27
+
+Write cache/crosstraining.top.json in 157 sec (2,62 min) [90 requests]
+Write cache/conaceitedecoco.com.json in 15 sec (0,25 min) [8 requests]
+Write cache/bohotendencias.com.json in 104 sec (1,73 min) [58 requests]
+Write cache/cuero.pro.json in 426 sec (7,10 min) [240 requests]
+Write cache/deleopardo.net.json in 124 sec (2,07 min) [70 requests]
+Write cache/estilostransparentes.com.json in 277 sec (4,62 min) [155 requests]
+Write cache/topinalambricos.com.json in 481 sec (8,02 min) [273 requests]
+Write cache/cosasdeviaje.com.json in 150 sec (2,50 min) [86 requests]
+Write cache/lucesled.promo.json in 589 sec (9,82 min) [336 requests]
+Write cache/debolsillo.casa.json in 172 sec (2,87 min) [96 requests]
+Write cache/encaje.me.json in 196 sec (3,27 min) [106 requests]
+Write cache/ganchillocrochet.com.json in 159 sec (2,65 min) [94 requests]
+Write cache/faldasdetul.net.json in 68 sec (1,13 min) [38 requests]
+Write cache/marihuana10.com.json in 77 sec (1,28 min) [44 requests]
+Write cache/decamping.netlify.app.json in 105 sec (1,75 min) [59 requests]
+Write cache/corazones.netlify.app.json in 93 sec (1,55 min) [51 requests]
+Write cache/relojesexclusivos.netlify.app.json in 105 sec (1,75 min) [59 requests]
+Write cache/sacosdedormir.netlify.app.json in 36 sec (0,60 min) [20 requests]
+
+Total requests = 1883
+Total finish at 2022-12-14 13:50:27
+Total execution time of script = 3360 sec (56,00 min)
+
+</pre>
