@@ -1,0 +1,29 @@
+<pre>
+
+Total start at 2023-04-22 12:45:53
+
+    Exception in crosstraining.top with ID 9: Exception Occured [2/2 requests (project/total)]
+Write cache/crosstraining.top.json in 148 sec (2,47 min) [90 requests]
+Write cache/bohotendencias.com.json in 99 sec (1,65 min) [58 requests]
+Write cache/conaceitedecoco.com.json in 14 sec (0,23 min) [8 requests]
+Write cache/corazones.win.json in 87 sec (1,45 min) [51 requests]
+Write cache/relojesexclusivos.comprarlo.online.json in 96 sec (1,60 min) [59 requests]
+Write cache/sacodedormir.net.json in 34 sec (0,57 min) [20 requests]
+Write cache/topinalambricos.com.json in 456 sec (7,60 min) [273 requests]
+Write cache/lucesled.promo.json in 560 sec (9,33 min) [336 requests]
+Write cache/cuero.pro.json in 405 sec (6,75 min) [240 requests]
+Write cache/deleopardo.net.json in 118 sec (1,97 min) [70 requests]
+Write cache/estilostransparentes.com.json in 262 sec (4,37 min) [155 requests]
+Write cache/cosasdeviaje.com.json in 141 sec (2,35 min) [86 requests]
+Write cache/debolsillo.casa.json in 159 sec (2,65 min) [96 requests]
+Write cache/encaje.me.json in 184 sec (3,07 min) [106 requests]
+Write cache/ganchillocrochet.com.json in 150 sec (2,50 min) [94 requests]
+Write cache/faldasdetul.net.json in 65 sec (1,08 min) [38 requests]
+Write cache/marihuana10.com.json in 73 sec (1,22 min) [44 requests]
+Write cache/decamping.pro.json in 99 sec (1,65 min) [59 requests]
+
+Total requests = 1883
+Total finish at 2023-04-22 13:38:43
+Total execution time of script = 3170 sec (52,83 min)
+
+</pre>
