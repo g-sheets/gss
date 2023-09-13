@@ -1,0 +1,28 @@
+<pre>
+
+Total start at 2023-09-13 12:48:23
+
+Write cache/crosstraining.top.json in 170 sec (2,83 min) [90 requests]
+Write cache/bohotendencias.com.json in 114 sec (1,90 min) [58 requests]
+Write cache/conaceitedecoco.com.json in 17 sec (0,28 min) [8 requests]
+Write cache/corazones.win.json in 100 sec (1,67 min) [51 requests]
+Write cache/relojesexclusivos.com.json in 110 sec (1,83 min) [59 requests]
+Write cache/sacodedormir.net.json in 39 sec (0,65 min) [20 requests]
+Write cache/topinalambricos.com.json in 512 sec (8,53 min) [273 requests]
+Write cache/lucesled.promo.json in 632 sec (10,53 min) [336 requests]
+Write cache/cuero.pro.json in 457 sec (7,62 min) [240 requests]
+Write cache/deleopardo.net.json in 135 sec (2,25 min) [70 requests]
+Write cache/estilostransparentes.com.json in 295 sec (4,92 min) [155 requests]
+Write cache/cosasdeviaje.com.json in 160 sec (2,67 min) [86 requests]
+Write cache/debolsillo.casa.json in 180 sec (3,00 min) [96 requests]
+Write cache/encaje.me.json in 208 sec (3,47 min) [106 requests]
+Write cache/ganchillocrochet.com.json in 170 sec (2,83 min) [94 requests]
+Write cache/faldasdetul.net.json in 74 sec (1,23 min) [38 requests]
+Write cache/marihuana10.com.json in 82 sec (1,37 min) [44 requests]
+Write cache/decamping.pro.json in 112 sec (1,87 min) [59 requests]
+
+Total requests = 1883
+Total finish at 2023-09-13 13:48:13
+Total execution time of script = 3589 sec (59,82 min)
+
+</pre>
