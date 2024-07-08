@@ -1,8 +1,8 @@
 name: Deploy GSS Projects on Netlify 🚀
 
 on:
-  schedule:
-    - cron:  '30 0 * * *'
+  # schedule:
+  #   - cron:  '30 0 * * *'
   workflow_dispatch:
 
 permissions: write-all
